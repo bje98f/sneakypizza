@@ -1,0 +1,3 @@
+[submodule "addons/default/plugins/pyrocms-plugins"]
+	path = addons/default/plugins/pyrocms-plugins
+	url = https://github.com/timReynolds/PyroCMS-Plugins.git
